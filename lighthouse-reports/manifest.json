@@ -1,0 +1,38 @@
+[
+  {
+    "url": "http://localhost:3000/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/Users/adnanbaig/Development/gingergroovestudios_reactjs/lighthouse-reports/localhost--2025_11_03_09_06_43.report.html",
+    "jsonPath": "/Users/adnanbaig/Development/gingergroovestudios_reactjs/lighthouse-reports/localhost--2025_11_03_09_06_43.report.json",
+    "summary": {
+      "performance": 0.37,
+      "accessibility": 0.95,
+      "best-practices": 0.93,
+      "seo": 0.92
+    }
+  },
+  {
+    "url": "http://localhost:3000/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/Users/adnanbaig/Development/gingergroovestudios_reactjs/lighthouse-reports/localhost--2025_11_03_09_07_01.report.html",
+    "jsonPath": "/Users/adnanbaig/Development/gingergroovestudios_reactjs/lighthouse-reports/localhost--2025_11_03_09_07_01.report.json",
+    "summary": {
+      "performance": 0.44,
+      "accessibility": 0.95,
+      "best-practices": 0.93,
+      "seo": 0.92
+    }
+  },
+  {
+    "url": "http://localhost:3000/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/Users/adnanbaig/Development/gingergroovestudios_reactjs/lighthouse-reports/localhost--2025_11_03_09_07_14.report.html",
+    "jsonPath": "/Users/adnanbaig/Development/gingergroovestudios_reactjs/lighthouse-reports/localhost--2025_11_03_09_07_14.report.json",
+    "summary": {
+      "performance": 0.45,
+      "accessibility": 0.95,
+      "best-practices": 0.93,
+      "seo": 0.92
+    }
+  }
+]
